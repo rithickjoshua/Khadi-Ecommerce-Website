@@ -1,0 +1,10 @@
+TO DO 
+Github link: https://github.com/anubhav199/Responsive-Ecommerce-Website
+Add text
+Khadi Mart is Affiliated with Khadi and Village Industries Commission (Ministry of Micro, Small and Medium Enterprises, Government of India ). 
+The KVIC, MSME is a statutory body formed by the Government of India, under the Act of Parliament, 'Khadi and Village Industries Commission Act of 1956'.
+
+use pictures from these websites
+https://khaddarvas.com/collections/fabric
+
+change background and theme
